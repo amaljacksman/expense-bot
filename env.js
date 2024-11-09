@@ -1,0 +1,10 @@
+// env.js
+const TELEGRAM_BOT_TOKEN = '7850845764:AAE8uTXR70GW5k-tEgI97k3iCKGcqLz995M';
+const RAZORPAY_KEY_ID = 'rzp_test_JtBpsFr96yAHRx';
+const RAZORPAY_KEY_SECRET = 'zxsE9vA5h5RQFxlbr2e5pl1s';
+
+module.exports = {
+    TELEGRAM_BOT_TOKEN,
+    RAZORPAY_KEY_ID,
+    RAZORPAY_KEY_SECRET
+};
